@@ -1,0 +1,2 @@
+# redmi
+Note 10
